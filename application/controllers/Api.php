@@ -206,11 +206,13 @@ class Api extends CI_Controller {
                 $data["error"] = 'Current password do not match';
             }
         }
+        //bla-bla
 
         echo json_encode($data);
     }
 
-    
+   //checkhudhuhc
+    //check
     
     
     
